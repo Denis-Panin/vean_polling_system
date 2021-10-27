@@ -1,4 +1,4 @@
-#!/home/pds/wks/VIAN_test/venv/bin/python
+#!/home/pds/wks/VEAN_test/venv/bin/python
 # When the django-admin.py deprecation ends, remove this script.
 import warnings
 
