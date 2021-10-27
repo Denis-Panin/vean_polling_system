@@ -1,0 +1,8 @@
+[flake8]
+max-line-length=350
+exclude=venv,tests/*
+application-import-names=app
+import-order-style=google
+max-complexity=10
+ignore=Q000, D100, D101, D102, D103, D104, D105, D106, D107, I202, E126, F841, E711, E501
+inline-quotes="
