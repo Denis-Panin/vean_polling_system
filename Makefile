@@ -16,4 +16,4 @@ freeze:
 	pip freeze > requirements.txt
 
 lint:
-	flake8 ./src
+	flake8 ./src --ignore E501,F841
